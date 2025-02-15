@@ -9,7 +9,7 @@ class MF:
         print(self.AS())
 
 def main():
-    GRTING = MF("Hello!")
+    GRTING = MF("Hola!")
     GRTING.DSPLY()
 
 if __name__ == "__main__":
